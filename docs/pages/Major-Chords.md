@@ -248,7 +248,7 @@ This will allow us to revert quikly back to our first measure from our forth mea
 
 ***
 
-**Note**. The above synopsis was derived from an You Tube video performed by Jake Lizzio [[1](#JAKELIZZIO){:.red}].
+**Note**. The above synopsis was derived from a YouTube video performed by Jake Lizzio [[1](#JAKELIZZIO){:.red}].
 
 1. {:#JAKELIZZIO}[How to Write Chord Progressions by Jake Lizzio, Mar #2018](https://youtu.be/M8eItITv8QA){:title="Click to Review How to Write Chord Progressions by Jake Lizzio"}{:target="_blank"}
 
