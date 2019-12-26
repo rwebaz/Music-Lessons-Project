@@ -244,6 +244,8 @@ Finally, let's close our Four (4) measure score with either chord Four (4) or "I
 
 This will allow us to revert quikly back to our first measure from our forth measure under either a Plagel cadence (chord IV to chord I) or an Authentic cadence (chord V to chord I).
 
+**Note**. The above excercise may be reproduced for any `note - chord` combination of the Major scale.
+
 ***
 
 **Note**. The above synopsis was derived from an You Tube video performed by Jake Lizzio [[1](#JAKELIZZIO){:.red}].
