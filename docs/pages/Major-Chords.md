@@ -58,7 +58,23 @@ Not!
 
 ## The Surface Path
 
-Following the above `Expected Roman Nomenclature` the "C" note of the C Major Scale is designated as the first note of the C Major Scale, a Whole note.
+Following the `C Major Scale` ...
+
+`C; D; E: F; G; A; B;`
+
+Plus the above `Expected Roman Nomenclature` ...
+
+`I; II; iii; IV; V; VI; vii;`
+
+Derived from the given `Position Template` ...
+
+`W; W; h; W; W; W; h`
+
+A surface path does indeed appear!
+
+### The Progression of Notes
+
+The "C" note of the C Major Scale is designated as the first note of the C Major Scale, a Whole note.
 
 And, progressively ...
 
@@ -73,6 +89,16 @@ Further, the "G" note of the C Major Scale is designated as the fifth note of th
 And, the "A" note of the C Major Scale is designated as the sixth note of the C Major Scale, a Whole note as well.
 
 Finally, the "B" note of the C Major Scale is designated as the seventh note of the C Major Scale, a half note.
+
+### Alternate Course
+
+The `Position Template` as drafted is flawed, however.
+
+A true understanding and relection of the `Position Template` must take into consideration more than simply a `one-to-one` match of the `The Progression of Notes`.
+
+What is further required is an understanding of the chords affiliated with each Major scale.
+
+When we master this tidbit of information, we will then be able to construct an more accurate `Position Template`.
 
 ## The Deeper Path
 
